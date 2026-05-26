@@ -1,2 +1,2 @@
 # thesis-project
-Online gambling promotion classifier
+Online gambling promotion classifier with XGBoost and IndoBERT
